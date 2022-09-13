@@ -22,7 +22,7 @@
   
   Je suis un développeur front-end junior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> et je vis en France.
   
-  - :telescope: Je suis actuellment en formation dans le développement web.
+  - :telescope: J'ai fini ma formation de développeur web et je suis donc diplômé.
   - :zap: Dans mon temps libre je fais des petits projets personnel afin de m'améliorer.
   - :mailbox:Comment me contacter: [![Linkedin Badge](https://img.shields.io/badge/-alexandre-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-benoît-fontaine/)
   
