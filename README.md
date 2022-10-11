@@ -24,7 +24,7 @@
   
   - :telescope: J'ai fini ma formation de développeur web et je suis donc diplômé.
   - :zap: Dans mon temps libre je fais des petits projets personnel afin de m'améliorer.
-  - :mailbox:Comment me contacter: [![Linkedin Badge](https://img.shields.io/badge/-alexandre-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-benoît-fontaine/)
+  - :mailbox:Comment me contacter: [![Linkedin Badge](https://img.shields.io/badge/-alexandre-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrebenoîtfontaine/)
   
   ### :hammer_and_wrench: Langages et outils :
   <div>
